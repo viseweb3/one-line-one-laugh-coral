@@ -16,4 +16,4 @@ This writes the line (one line, at most 200 characters) to `/output/entry.txt`.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=yc48fctg&utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=axzcz4ep&utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3) · AI agents build software for cash rewards</sub>
